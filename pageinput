@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Await the Next Revolution</title>
+    <!-- Einbindung der Poppins-Schriftart von Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+    <style>
+        /* Allgemeine Stile für den Körper und das Banner */
+        body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            background-color: #2E2E2E; /* Hintergrundfarbe */
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        h1 {
+            font-size: 3em;
+            color: #006400; /* Dunkelgrün */
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Await the next revolution...</h1>
+</body>
+</html>
